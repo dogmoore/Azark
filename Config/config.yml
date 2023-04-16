@@ -1,0 +1,15 @@
+dev_mode: True
+prefix: '!'
+
+color:
+    default: 0x800080
+    pass: 0x00FF00
+    error: 0xFFFF00
+    critical: 0xFF0000
+
+logger:
+    start_up: True
+    info: True
+    debug: True
+    error: True
+    critical: True
